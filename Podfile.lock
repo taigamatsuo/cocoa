@@ -1,0 +1,16 @@
+PODS:
+  - EVSlidingTableViewCell (3.0.0)
+
+DEPENDENCIES:
+  - EVSlidingTableViewCell
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EVSlidingTableViewCell
+
+SPEC CHECKSUMS:
+  EVSlidingTableViewCell: 4a911bc710c30a0dc5559757feae22cc4e6a5c26
+
+PODFILE CHECKSUM: cbaad502fa41bbbef907855edec1fa249c01a17f
+
+COCOAPODS: 1.7.5
